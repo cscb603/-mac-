@@ -1,4 +1,4 @@
-# -mac-
+# Mac-Storage-Junk-Files-Remover
 U盘或者移动硬盘在MAC电脑上使用过后，会多出来很多小文件，比如.Trashes或者一些 ._开头的文件，这工具可以一键删除这些。
 中文说明
 项目简介
